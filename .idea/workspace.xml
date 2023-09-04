@@ -1,11 +1,97 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="a205d4b8-fdea-4f97-b650-63e749098c3f" name="更改" comment="" />
+    <list default="true" id="a205d4b8-fdea-4f97-b650-63e749098c3f" name="更改" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/BinarySearch_704.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/generateMatrix_59.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/minSubArrayLen_209.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/removeElement_27.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/sortedSquares_977.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Draft.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hashing/ArrayIntersection_349.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hashing/HappyNumber_202.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hashing/TwoSum_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hashing/fourSumCount_II_454.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hashing/isAnagram_242.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hashing/ransomLetter_383.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hashing/threeSum_15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LinkedList/MyLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LinkedList/SwapNodes_24.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LinkedList/detectCycleII_142.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LinkedList/getIntersectionNode_0207.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LinkedList/removeElements_203.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LinkedList/removeNthFromEnd_19.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LinkedList/reverseList_206.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Public/BinaryTree/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Public/BinaryTree/TreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Public/ListNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Public/MultipleNodeTree/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StackAndQueue/MaxValueInSlidingWindow_239.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StackAndQueue/QueueOfStack_232.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StackAndQueue/StackOfQueue_225.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StackAndQueue/ValidBrackets_20.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StackAndQueue/evalRPN_150.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StackAndQueue/removeDuplicates_1047.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StackAndQueue/topKFrequent_347.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/String/KMP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/String/KMP_strStr_28.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/String/ReplaceSpace_Offer05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/String/repeatedSubstringPattern_459.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/String/reverseLeftWords_Offer_58.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/String/reverseString_344.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/String/reverseString_II_541.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/String/reverseWords_151.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tree/CompleteTreeNodeCounts_222.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tree/ConnectNext_116.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tree/ConnectNext_II_117.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tree/IsBalancedTree_110.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tree/Iterative_Inorder_94.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tree/Iterative_Postorder_145.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tree/Iterative_Preorder_144.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tree/LevelOrderTravelsal_N_429.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tree/LevelOrder_maxDepth_104.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tree/LevelOrder_minDepth_111.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tree/MultiNode_LevelOrder_maxDepth__559.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tree/MultiNode_Recursive_maxDepth__559.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tree/Recursive_maxDepth_104.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tree/Recursive_minDepth_111.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tree/SymmetricTree_101.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tree/averageOfLevels_637.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tree/inorderTraversal_94.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tree/largestValues_515.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tree/levelOrderBottomTop_107.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tree/levelOrderTravelsal_102.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tree/postorderTraversal_145.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tree/preorderTraversal_144.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tree/rightSideView_199.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
   </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="2" />
@@ -16,14 +102,131 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="Public.BinaryTree" />
+    </key>
+  </component>
+  <component name="RunManager" selected="应用程序.ConnectNext_II_117">
+    <configuration default="true" type="AZURE_FUNCTION_SUPPORT" factoryName="Run Functions">
+      <option name="appName" />
+      <option name="appServicePlanName" />
+      <option name="appServicePlanResourceGroup" />
+      <option name="appSettingsKey" value="9b76e4c3-3442-41a9-8fee-c0739cfe6ad9" />
+      <option name="artifact" />
+      <option name="debugOptions" />
+      <option name="deployment" />
+      <option name="deploymentStagingDirectoryPath" />
+      <option name="funcPath" />
+      <option name="functionHostArguments" />
+      <option name="hostJsonPath" />
+      <option name="insightsName" />
+      <option name="instrumentationKey" />
+      <option name="javaVersion" />
+      <option name="localSettingsJsonPath" />
+      <option name="moduleName" />
+      <option name="os" />
+      <option name="pricingTier" />
+      <option name="providerMap">
+        <map />
+      </option>
+      <option name="region" />
+      <option name="resourceGroup" />
+      <option name="stagingFolder" />
+      <option name="subscription" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConnectNext_116" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Tree.ConnectNext_116" />
+      <module name="LeetCode-Master" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tree.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConnectNext_II_117" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Tree.ConnectNext_II_117" />
+      <module name="LeetCode-Master" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tree.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MaxValueInSlidingWindow_239" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StackAndQueue.MaxValueInSlidingWindow_239" />
+      <module name="LeetCode-Master" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="StackAndQueue.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="levelOrderTravelsal_102" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Tree.levelOrderTravelsal_102" />
+      <module name="LeetCode-Master" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tree.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="topKFrequent_347" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StackAndQueue.topKFrequent_347" />
+      <module name="LeetCode-Master" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="StackAndQueue.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="应用程序.ConnectNext_II_117" />
+        <item itemvalue="应用程序.ConnectNext_116" />
+        <item itemvalue="应用程序.levelOrderTravelsal_102" />
+        <item itemvalue="应用程序.topKFrequent_347" />
+        <item itemvalue="应用程序.MaxValueInSlidingWindow_239" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="默认任务">
@@ -32,7 +235,197 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1693119481513</updated>
+      <workItem from="1693119482896" duration="9968000" />
+      <workItem from="1693289281440" duration="634000" />
+      <workItem from="1693310950763" duration="8208000" />
+      <workItem from="1693328112106" duration="5430000" />
+      <workItem from="1693369197906" duration="2705000" />
+      <workItem from="1693373885493" duration="22112000" />
+      <workItem from="1693457484807" duration="5444000" />
+      <workItem from="1693579738854" duration="2241000" />
+      <workItem from="1693631100311" duration="6118000" />
+      <workItem from="1693652680155" duration="6895000" />
+      <workItem from="1693688378566" duration="8680000" />
+      <workItem from="1693723455825" duration="3470000" />
+      <workItem from="1693734505085" duration="13414000" />
+      <workItem from="1693808025975" duration="8630000" />
+      <workItem from="1693824484425" duration="6156000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Array/BinarySearch_704.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Array/minSubArrayLen_209.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Array/generateMatrix_59.java</url>
+          <line>56</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LinkedList/removeElements_203.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LinkedList/MyLinkedList.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LinkedList/MyLinkedList.java</url>
+          <line>105</line>
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LinkedList/SwapNodes_24.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LinkedList/removeNthFromEnd_19.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LinkedList/getIntersectionNode_0207.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="46" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Hashing/isAnagram_242.java</url>
+          <line>41</line>
+          <option name="timeStamp" value="48" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/String/reverseString_344.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="50" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/String/reverseString_II_541.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="51" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/String/KMP.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="60" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/StackAndQueue/StackOfQueue_225.java</url>
+          <line>38</line>
+          <option name="timeStamp" value="68" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/StackAndQueue/removeDuplicates_1047.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="70" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/StackAndQueue/evalRPN_150.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="73" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Tree/levelOrderTravelsal_102.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="74" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Array/generateMatrix_59.java</url>
+          <line>5</line>
+          <properties class="Array.generateMatrix_59" method="generateMatrix">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/LinkedList/SwapNodes_24.java</url>
+          <line>5</line>
+          <properties class="LinkedList.SwapNodes_24" method="swapPairs">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Hashing/isAnagram_242.java</url>
+          <line>22</line>
+          <properties class="Hashing.isAnagram_242" method="isAnagram1">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Hashing/HappyNumber_202.java</url>
+          <line>5</line>
+          <properties class="Hashing.HappyNumber_202" method="isHappy">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="49" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/String/reverseWords_151.java</url>
+          <line>7</line>
+          <properties class="String.reverseWords_151" method="reverseWords">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="56" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/String/reverseWords_151.java</url>
+          <line>18</line>
+          <properties class="String.reverseWords_151" method="RemoveSpace">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="57" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/String/KMP.java</url>
+          <line>26</line>
+          <properties class="String.KMP" method="KMP">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="58" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/String/KMP_strStr_28.java</url>
+          <line>33</line>
+          <properties class="String.KMP_strStr_28" method="getNext">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="64" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/StackAndQueue/ValidBrackets_20.java</url>
+          <line>14</line>
+          <properties class="StackAndQueue.ValidBrackets_20" method="isValid">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="69" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
