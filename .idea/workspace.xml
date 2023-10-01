@@ -5,71 +5,107 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a205d4b8-fdea-4f97-b650-63e749098c3f" name="更改" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array/BinarySearch_704.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array/generateMatrix_59.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array/minSubArrayLen_209.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array/removeElement_27.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array/sortedSquares_977.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Draft.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Hashing/ArrayIntersection_349.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Hashing/HappyNumber_202.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Hashing/TwoSum_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Hashing/fourSumCount_II_454.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Hashing/isAnagram_242.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Hashing/ransomLetter_383.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Hashing/threeSum_15.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LinkedList/MyLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LinkedList/SwapNodes_24.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LinkedList/detectCycleII_142.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LinkedList/getIntersectionNode_0207.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LinkedList/removeElements_203.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LinkedList/removeNthFromEnd_19.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LinkedList/reverseList_206.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Public/BinaryTree/Node.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Public/BinaryTree/TreeNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Public/ListNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Public/MultipleNodeTree/Node.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StackAndQueue/MaxValueInSlidingWindow_239.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StackAndQueue/QueueOfStack_232.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StackAndQueue/StackOfQueue_225.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StackAndQueue/ValidBrackets_20.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StackAndQueue/evalRPN_150.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StackAndQueue/removeDuplicates_1047.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StackAndQueue/topKFrequent_347.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/String/KMP.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/String/KMP_strStr_28.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/String/ReplaceSpace_Offer05.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/String/repeatedSubstringPattern_459.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/String/reverseLeftWords_Offer_58.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/String/reverseString_344.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/String/reverseString_II_541.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/String/reverseWords_151.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tree/CompleteTreeNodeCounts_222.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tree/ConnectNext_116.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tree/ConnectNext_II_117.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tree/IsBalancedTree_110.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tree/Iterative_Inorder_94.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tree/Iterative_Postorder_145.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tree/Iterative_Preorder_144.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tree/LevelOrderTravelsal_N_429.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tree/LevelOrder_maxDepth_104.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tree/LevelOrder_minDepth_111.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tree/MultiNode_LevelOrder_maxDepth__559.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tree/MultiNode_Recursive_maxDepth__559.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tree/Recursive_maxDepth_104.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tree/Recursive_minDepth_111.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tree/SymmetricTree_101.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tree/averageOfLevels_637.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tree/inorderTraversal_94.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tree/largestValues_515.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tree/levelOrderBottomTop_107.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tree/levelOrderTravelsal_102.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tree/postorderTraversal_145.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tree/preorderTraversal_144.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tree/rightSideView_199.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BackTracking/New/IncrementalSubsequence_491.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BackTracking/New/IntegerCombine_77.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BackTracking/New/LetterCombinationsOfPhoneNumber_17.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BackTracking/New/NQueen_51.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BackTracking/New/NumberCombinationSum3_39.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BackTracking/New/Permutations_46.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BackTracking/New/Permutations_II_47.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BackTracking/New/RecoverIPAddress_93.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BackTracking/New/SplitString_131.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BackTracking/New/Subsets_78.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BackTracking/New/Subsets_II_90.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BackTracking/New/WordBreak_139.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BackTracking/New/combinationSum2_40.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BackTracking/New/combinationSum_39.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BackTracking/Old/LetterCombinationsOfPhoneNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BackTracking/Old/NumberCombinationSum3_216.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BackTracking/Old/NumberCombination_77.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BackTracking/Old/RecoverIPAddress_93.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BackTracking/Old/SplitString_131.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BackTracking/Old/combinationSum2_40.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BackTracking/Old/combinationSum_39.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DynamicPlaning/ClimbStairs_70.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DynamicPlaning/CompleteBackpack/Basic_CompleteBackpack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DynamicPlaning/CompleteBackpack/ClimbStairs_CombinationSum4_377.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DynamicPlaning/CompleteBackpack/CoinChange_322.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DynamicPlaning/CompleteBackpack/CoinChange_518.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DynamicPlaning/CompleteBackpack/CombinationSum4_377.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DynamicPlaning/CompleteBackpack/NumSquares_279.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DynamicPlaning/DifferentSubsequence_115.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DynamicPlaning/Fibonacci_509.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DynamicPlaning/IsSubsequence_392.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DynamicPlaning/LongestCommonSubarray_718.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DynamicPlaning/LongestCommonSubsequence_1143.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DynamicPlaning/LongestContinuousSubsequence_674.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DynamicPlaning/LongestPalindromeSubsequence_516.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DynamicPlaning/LongestSubsequence_300.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DynamicPlaning/MaxProfitWithCD_309.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DynamicPlaning/MaxProfitWithCommission_714.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DynamicPlaning/MaxProfit_III_123.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DynamicPlaning/MaxProfit_II_122.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DynamicPlaning/MaxProfit_I_121.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DynamicPlaning/MaxSubarraySum_53.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DynamicPlaning/MaxUncrossedLines_1035.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DynamicPlaning/MinDistance_583.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DynamicPlaning/MinEditDistance_72.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DynamicPlaning/PalindromicSubstring_647.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DynamicPlaning/Rob_III_337.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DynamicPlaning/Rob_II_213.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DynamicPlaning/Rob_I_198.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DynamicPlaning/SplitNumber_343.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DynamicPlaning/UniqueBSTCount_96.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DynamicPlaning/UniquePath_62.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DynamicPlaning/UniquePathsWithObstacles_63.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DynamicPlaning/ZeroOneBackpack/Basic_01_BackpackProblem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DynamicPlaning/ZeroOneBackpack/Draft.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DynamicPlaning/ZeroOneBackpack/SplitEqualSubset_416.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DynamicPlaning/ZeroOneBackpack/TargetSum_494.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DynamicPlaning/ZeroOneBackpack/ZeroAndOnes_474.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DynamicPlaning/ZeroOneBackpack/lastStoneWeightII_1049.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DynamicPlaning/minCostClimbingStairs_746.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Greedy/New/CandyReward_135.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Greedy/New/DistributeCookie_455.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Greedy/New/GasolineStation_134.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Greedy/New/JumpingGame_55.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Greedy/New/JumpingGame_II_45.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Greedy/New/LargestSumAfterKNegations_1005.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Greedy/New/LemonadeChange_860.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Greedy/New/MaxProfit_II_122.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Greedy/New/MaxSubArray_53.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Greedy/New/MergeIntervals_56.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Greedy/New/MinimumNumber_of_Arrows_452.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Greedy/New/MonotoneIncreasingDigits_738.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Greedy/New/NonOverlappingIntervals_435.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Greedy/New/PartitionString_763.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Greedy/New/QueueReconstructionByHeight_406.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Greedy/New/WavingSubsequence_376.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Greedy/Old/DeliverCookies_455.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Greedy/Old/JumpingGame_55.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Greedy/Old/JumpingGame_II_45.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Greedy/Old/MaxProfit_II_122.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Greedy/Old/MaxSubarraySum_53.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Greedy/Old/WavingSubsequence_376.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tree/BuildBSTFromArray_108.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tree/ConstructBSTBy_PreAndInOrder_105.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tree/ConstructBST_By_InAndPostOrder_106.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tree/Delete_BST_Node_450.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tree/GreaterSumTree_538.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tree/MergeTwoTrees_617.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tree/NearestSharedAncestor_236.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tree/SumOfLeftLeaves_404.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tree/ValidBSTVerifying_98.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tree/binaryTreePaths_257.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tree/constructMaximumBinaryTree_654.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tree/findBottomLeftValue_513.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tree/findModeInBST_501.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tree/getMinimumDifference_530.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tree/hasPathSum_112.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tree/insertIntoBST_701.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tree/searchBST_700.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tree/IsBalancedTree_110.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tree/IsBalancedTree_110.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -113,15 +149,18 @@
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="Greedy.Old" />
+      <recent name="BackTracking.Old" />
       <recent name="Public.BinaryTree" />
     </key>
   </component>
-  <component name="RunManager" selected="应用程序.ConnectNext_II_117">
+  <component name="RunManager" selected="应用程序.MonotoneIncreasingDigits_738">
     <configuration default="true" type="AZURE_FUNCTION_SUPPORT" factoryName="Run Functions">
       <option name="appName" />
       <option name="appServicePlanName" />
@@ -152,12 +191,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ConnectNext_116" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Tree.ConnectNext_116" />
+    <configuration name="GasolineStation_134" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Greedy.New.GasolineStation_134" />
       <module name="LeetCode-Master" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Tree.*" />
+          <option name="PATTERN" value="Greedy.New.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -165,12 +204,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ConnectNext_II_117" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Tree.ConnectNext_II_117" />
+    <configuration name="LargestSumAfterKNegations_1005" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Greedy.New.LargestSumAfterKNegations_1005" />
       <module name="LeetCode-Master" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Tree.*" />
+          <option name="PATTERN" value="Greedy.New.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -178,12 +217,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MaxValueInSlidingWindow_239" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StackAndQueue.MaxValueInSlidingWindow_239" />
+    <configuration name="MergeIntervals_56" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Greedy.New.MergeIntervals_56" />
       <module name="LeetCode-Master" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="StackAndQueue.*" />
+          <option name="PATTERN" value="Greedy.New.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -191,12 +230,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="levelOrderTravelsal_102" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Tree.levelOrderTravelsal_102" />
+    <configuration name="MonotoneIncreasingDigits_738" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Greedy.New.MonotoneIncreasingDigits_738" />
       <module name="LeetCode-Master" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Tree.*" />
+          <option name="PATTERN" value="Greedy.New.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -204,12 +243,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="topKFrequent_347" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StackAndQueue.topKFrequent_347" />
+    <configuration name="PartitionString_763" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Greedy.New.PartitionString_763" />
       <module name="LeetCode-Master" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="StackAndQueue.*" />
+          <option name="PATTERN" value="Greedy.New.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -219,11 +258,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="应用程序.ConnectNext_II_117" />
-        <item itemvalue="应用程序.ConnectNext_116" />
-        <item itemvalue="应用程序.levelOrderTravelsal_102" />
-        <item itemvalue="应用程序.topKFrequent_347" />
-        <item itemvalue="应用程序.MaxValueInSlidingWindow_239" />
+        <item itemvalue="应用程序.MonotoneIncreasingDigits_738" />
+        <item itemvalue="应用程序.MergeIntervals_56" />
+        <item itemvalue="应用程序.PartitionString_763" />
+        <item itemvalue="应用程序.GasolineStation_134" />
+        <item itemvalue="应用程序.LargestSumAfterKNegations_1005" />
       </list>
     </recent_temporary>
   </component>
@@ -249,7 +288,44 @@
       <workItem from="1693723455825" duration="3470000" />
       <workItem from="1693734505085" duration="13414000" />
       <workItem from="1693808025975" duration="8630000" />
-      <workItem from="1693824484425" duration="6156000" />
+      <workItem from="1693824484425" duration="6204000" />
+      <workItem from="1693892995425" duration="8990000" />
+      <workItem from="1693912925073" duration="10263000" />
+      <workItem from="1693980676721" duration="15313000" />
+      <workItem from="1694000634328" duration="7735000" />
+      <workItem from="1694024406107" duration="4479000" />
+      <workItem from="1694065243252" duration="16503000" />
+      <workItem from="1694151460007" duration="4394000" />
+      <workItem from="1694188191474" duration="1442000" />
+      <workItem from="1694224762758" duration="42000" />
+      <workItem from="1694495455514" duration="3449000" />
+      <workItem from="1694504177151" duration="5656000" />
+      <workItem from="1694583400677" duration="412000" />
+      <workItem from="1694588988084" duration="22009000" />
+      <workItem from="1694669275302" duration="18212000" />
+      <workItem from="1694746446860" duration="12508000" />
+      <workItem from="1694775256426" duration="29000" />
+      <workItem from="1694831777612" duration="4161000" />
+      <workItem from="1694921825450" duration="18888000" />
+      <workItem from="1694968199747" duration="652000" />
+      <workItem from="1695005214982" duration="8031000" />
+      <workItem from="1695035511505" duration="4401000" />
+      <workItem from="1695102410988" duration="15318000" />
+      <workItem from="1695274308073" duration="2857000" />
+      <workItem from="1695280327279" duration="6951000" />
+      <workItem from="1695306253001" duration="3428000" />
+      <workItem from="1695349919929" duration="4678000" />
+      <workItem from="1695366261453" duration="17210000" />
+      <workItem from="1695441110480" duration="5335000" />
+      <workItem from="1695457398138" duration="11000" />
+      <workItem from="1695466032661" duration="605000" />
+      <workItem from="1695469712584" duration="2467000" />
+      <workItem from="1695523330466" duration="11491000" />
+      <workItem from="1695554342129" duration="8403000" />
+      <workItem from="1695727323719" duration="24000" />
+      <workItem from="1696048869497" duration="15575000" />
+      <workItem from="1696143870086" duration="6720000" />
+      <workItem from="1696160592929" duration="1520000" />
     </task>
     <servers />
   </component>
@@ -344,6 +420,176 @@
           <line>17</line>
           <option name="timeStamp" value="74" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Tree/binaryTreePaths_257.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="75" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Tree/SumOfLeftLeaves_404.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="81" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Tree/ConstructBST_By_InAndPostOrder_106.java</url>
+          <line>58</line>
+          <option name="timeStamp" value="86" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Tree/ConstructBST_By_InAndPostOrder_106.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="90" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Tree/ValidBSTVerifying_98.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="96" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/BackTracking/New/SplitString_131.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="116" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Greedy/Old/MaxSubarraySum_53.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="127" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Greedy/Old/MaxSubarraySum_53.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="128" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Greedy/Old/JumpingGame_II_45.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="132" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/DynamicPlaning/Fibonacci_509.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="133" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/DynamicPlaning/minCostClimbingStairs_746.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="134" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/DynamicPlaning/UniquePathsWithObstacles_63.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="136" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/DynamicPlaning/SplitNumber_343.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="141" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/DynamicPlaning/UniqueBSTCount_96.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="142" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/DynamicPlaning/ZeroOneBackpack/Basic_01_BackpackProblem.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="146" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/DynamicPlaning/ZeroOneBackpack/SplitEqualSubset_416.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="152" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/DynamicPlaning/ZeroOneBackpack/lastStoneWeightII_1049.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="155" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/DynamicPlaning/ZeroOneBackpack/TargetSum_494.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="157" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/DynamicPlaning/ZeroOneBackpack/ZeroAndOnes_474.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="162" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/DynamicPlaning/CompleteBackpack/CoinChange_322.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="163" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/DynamicPlaning/CompleteBackpack/NumSquares_279.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="165" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/BackTracking/New/WordBreak_139.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="166" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/DynamicPlaning/Rob_I_198.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="168" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/DynamicPlaning/IsSubsequence_392.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="172" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/DynamicPlaning/MinDistance_583.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="181" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/DynamicPlaning/PalindromicSubstring_647.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="182" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Greedy/New/MaxSubArray_53.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="185" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Greedy/New/JumpingGame_55.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="186" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Greedy/New/JumpingGame_II_45.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="189" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Greedy/New/LargestSumAfterKNegations_1005.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="194" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Greedy/New/GasolineStation_134.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="195" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Greedy/New/PartitionString_763.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="199" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Greedy/New/MergeIntervals_56.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="202" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Greedy/New/MonotoneIncreasingDigits_738.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="203" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/Array/generateMatrix_59.java</url>
           <line>5</line>
@@ -424,6 +670,243 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="69" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Tree/SumOfLeftLeaves_404.java</url>
+          <line>10</line>
+          <properties class="Tree.SumOfLeftLeaves_404" method="sumOfLeftLeaves">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="82" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Tree/findBottomLeftValue_513.java</url>
+          <line>25</line>
+          <properties class="Tree.findBottomLeftValue_513" method="findBottomLeftValue_LevelOrder">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="83" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Tree/hasPathSum_112.java</url>
+          <line>53</line>
+          <properties class="Tree.hasPathSum_112" method="PathSumHelper">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="84" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Tree/ConstructBST_By_InAndPostOrder_106.java</url>
+          <line>57</line>
+          <properties class="Tree.ConstructBST_By_InAndPostOrder_106">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="85" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Tree/constructMaximumBinaryTree_654.java</url>
+          <line>14</line>
+          <properties class="Tree.constructMaximumBinaryTree_654" method="constructMaximumBinaryTreeHelper">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="93" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Tree/findModeInBST_501.java</url>
+          <line>26</line>
+          <properties class="Tree.findModeInBST_501" method="findModeHelper">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="99" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Tree/NearestSharedAncestor_236.java</url>
+          <line>15</line>
+          <properties class="Tree.NearestSharedAncestor_236" method="getlowestCommonAncestor">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="100" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Tree/GreaterSumTree_538.java</url>
+          <line>10</line>
+          <properties class="Tree.GreaterSumTree_538" method="convertBST">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="101" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/BackTracking/Old/SplitString_131.java</url>
+          <line>33</line>
+          <properties class="BackTracking.Old.SplitString_131" method="BackTracking">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="105" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/BackTracking/Old/RecoverIPAddress_93.java</url>
+          <line>18</line>
+          <properties class="BackTracking.Old.RecoverIPAddress_93" method="BackTracking">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="106" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/BackTracking/New/IntegerCombine_77.java</url>
+          <line>18</line>
+          <properties class="BackTracking.New.IntegerCombine_77" method="BackTracking">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="107" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/BackTracking/New/NumberCombinationSum3_39.java</url>
+          <line>18</line>
+          <properties class="BackTracking.New.NumberCombinationSum3_39" method="BackTracking">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="109" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/BackTracking/New/combinationSum2_40.java</url>
+          <line>20</line>
+          <properties class="BackTracking.New.combinationSum2_40" method="BackTracking">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="114" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/BackTracking/New/RecoverIPAddress_93.java</url>
+          <line>17</line>
+          <properties class="BackTracking.New.RecoverIPAddress_93" method="BackTracking">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="120" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/BackTracking/New/Permutations_46.java</url>
+          <line>18</line>
+          <properties class="BackTracking.New.Permutations_46" method="BackTracking">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="122" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/BackTracking/New/Permutations_II_47.java</url>
+          <line>16</line>
+          <properties class="BackTracking.New.Permutations_II_47" method="BackTracking">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="123" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/BackTracking/New/NQueen_51.java</url>
+          <line>14</line>
+          <properties class="BackTracking.New.NQueen_51" method="BackTracking">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="126" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/DynamicPlaning/UniquePathsWithObstacles_63.java</url>
+          <line>3</line>
+          <properties class="DynamicPlaning.UniquePathsWithObstacles_63" method="uniquePathsWithObstacles">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="137" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/DynamicPlaning/Rob_II_213.java</url>
+          <line>14</line>
+          <properties class="DynamicPlaning.Rob_II_213" method="RobRange">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="170" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/DynamicPlaning/MaxProfit_III_123.java</url>
+          <line>3</line>
+          <properties class="DynamicPlaning.MaxProfit_III_123" method="maxProfit">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="171" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/DynamicPlaning/IsSubsequence_392.java</url>
+          <line>4</line>
+          <properties class="DynamicPlaning.IsSubsequence_392" method="isSubsequence">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="173" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/DynamicPlaning/PalindromicSubstring_647.java</url>
+          <line>3</line>
+          <properties class="DynamicPlaning.PalindromicSubstring_647" method="countSubstrings">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="184" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Greedy/New/PartitionString_763.java</url>
+          <line>5</line>
+          <properties class="Greedy.New.PartitionString_763" method="partitionLabels">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="200" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-field">
+          <url>file://$PROJECT_DIR$/src/Tree/ConstructBSTBy_PreAndInOrder_105.java</url>
+          <line>8</line>
+          <properties field="ValToIndex" class="Tree.ConstructBSTBy_PreAndInOrder_105" />
+          <option name="timeStamp" value="92" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-field">
+          <url>file://$PROJECT_DIR$/src/BackTracking/Old/combinationSum_39.java</url>
+          <line>6</line>
+          <properties field="Path" class="BackTracking.Old.combinationSum_39" />
+          <option name="timeStamp" value="103" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-field">
+          <url>file://$PROJECT_DIR$/src/BackTracking/New/LetterCombinationsOfPhoneNumber_17.java</url>
+          <line>7</line>
+          <properties field="Result" class="BackTracking.New.LetterCombinationsOfPhoneNumber_17" />
+          <option name="timeStamp" value="111" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-field">
+          <url>file://$PROJECT_DIR$/src/BackTracking/New/combinationSum2_40.java</url>
+          <line>6</line>
+          <properties field="Result" class="BackTracking.New.combinationSum2_40" />
+          <option name="timeStamp" value="115" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-field">
+          <url>file://$PROJECT_DIR$/src/BackTracking/New/SplitString_131.java</url>
+          <line>8</line>
+          <properties field="Result" class="BackTracking.New.SplitString_131" />
+          <option name="timeStamp" value="121" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
